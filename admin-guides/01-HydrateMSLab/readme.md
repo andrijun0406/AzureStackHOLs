@@ -30,6 +30,8 @@ In this lab you will learn how to prepare MSLab to be able to setup labs. As res
 
 Optionally you can setup VM in Azure Virtual Machine.
 
+Here how to set up a VM in Azure
+
 ## Task 2 - Download all necessary files
 
 In this task you will download all necessary files required to setup [MSLab](aka.ms/mslab).
